@@ -1,1 +1,0 @@
-/home/ubuntu/share/code/cmake/Tutorial/demo2/build/CMakeFiles/demo.dir
